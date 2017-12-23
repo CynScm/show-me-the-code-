@@ -14,6 +14,6 @@ draw = ImageDraw.Draw(image)
 # 在图像内添加文字
 
 draw.text((w-180, 30),"Goohack",fill=(84,166,243),font=font)
-image.save('show-me-the-code-pythonCode/0000/22.jpg', 'jpeg')
+image.save('show-me-the-code-pythonCode/0000/1.jpg', 'jpeg')
 
 
