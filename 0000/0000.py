@@ -3,7 +3,7 @@ from PIL import Image, ImageFont, ImageDraw
 # PIL的ImageDraw提供了一系列绘图方法，让我们可以直接绘图
 
 # 打开一个jpg图像文件
-image = Image.open('0.jpg') 
+image = Image.open('0.jpg')
 # 获得图像尺寸:
 w, h = image.size
 # 设置字体,和字体大小
